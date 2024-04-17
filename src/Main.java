@@ -1,12 +1,3 @@
-import java.lang.IllegalArgumentException;
-import java.util.ArrayList;
-import java.util.Scanner;
-
-/**
- * Main class for the banking application.
- * This class provides a simple command-line interface for managing bank accounts.
- * It allows users to create bank accounts, make transactions, and view balances and transaction history.
- */
 import java.util.Scanner;
 
 /**
